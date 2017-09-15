@@ -1,0 +1,4 @@
+Results:
+Train set: 1 and 2; Tune Set: 3; result: 0.67964
+Train set: 1 and 3; Tune Set: 2; result: 0.70871
+Train set: 2 and 3; Tune Set: 1; result: 0.69670
